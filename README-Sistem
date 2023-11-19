@@ -1,0 +1,5 @@
+<b> Siarsip </b> adalah sebuah sistem informasi untuk pengarsipan surat. Sistem ini dilengkapi fitur login, kelola arsip surat, dan kelola kategori surat
+
+Database : didalam Folder Database dengan nama siarsip.sql
+Login    : Username kelurahan@gmail.com
+           Password 123456
